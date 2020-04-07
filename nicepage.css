@@ -26158,9 +26158,9 @@ a.u-link.u-text-hover-grey-90:hover {
             color: #444f48 !important;
         }
 
-        
 
-        
+
+
         .u-border-custom-color-1,
         .u-separator-custom-color-1:after
         {
@@ -26198,9 +26198,9 @@ a.u-link.u-text-hover-grey-90:hover {
         {
             border-color: #3d4741 !important;
         }
-        
 
-        
+
+
         .u-text-custom-color-1,
         .u-text-custom-color-1 a,
         a.u-button-style.u-text-custom-color-1,
@@ -26248,7 +26248,7 @@ a.u-link.u-text-hover-grey-90:hover {
             color: #444f48 !important;
         }
 
-    
+
 
     /** common-rules **/
     h1.u-title
@@ -26402,7 +26402,7 @@ a.u-link.u-text-hover-grey-90:hover {
     /*end-media rules*/
     /** publish-rules **/
 
-    
+
 
     /** cms-rules **/
     /*begin-responsive rules*/
@@ -26532,7 +26532,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-logo-image-1 {max-width: 140px; max-height: 140px; width: 140px}
 .u-header .u-image-2 {margin: -32px 0 0 auto}
 .u-header .u-logo-image-2 {max-width: 169px; max-height: 169px}
-.u-header .u-text-1 {width: 145px; margin: -47px 498px 25px 497px} 
+.u-header .u-text-1 {width: 145px; margin: -47px 498px 25px 497px}
 @media (max-width: 1199px){ .u-header .u-sheet-1 {min-height: 80px}
 .u-header .u-text-1 {margin-right: 397px; margin-left: 397px} }
 @media (max-width: 991px){ .u-header .u-text-1 {margin-left: 287px; margin-right: 287px} }
@@ -26543,12 +26543,12 @@ a.u-link.u-text-hover-grey-90:hover {
  .u-footer {background-image: url("images/2020-04-07_201209.jpg"); background-position: 50% 50%}
 .u-footer .u-sheet-1 {min-height: 90px}
 .u-footer .u-image-1 {margin: 30px auto -30px 0}
-.u-footer .u-logo-image-1 {max-width: 150px; max-height: 150px; width: 150px} 
+.u-footer .u-logo-image-1 {max-width: 150px; max-height: 150px; width: 150px}
 @media (max-width: 1199px){ .u-footer .u-image-1 {width: 80px; height: 16px} }
 
 
 
 
- /*begin-variables base-font-size*/ 
+ /*begin-variables base-font-size*/
  html { font-size: 16px; }
  /*end-variables base-font-size*/
