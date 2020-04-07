@@ -248,7 +248,7 @@
 .u-section-7 .u-text-2 {font-size: 1.11111rem; font-style: normal; margin: 20px 0 0}
 .u-section-7 .u-btn-1 {border-style: none; background-image: none; margin: 40px 323px 0 0} 
 
-@media (max-width: 1199px){ .u-section-7 {min-height: 170px; background-position: 50% 10vh}
+@media (max-width: 1199px){ .u-section-7 {min-height: 170px; background-position: 50% -10vh}
 .u-section-7 .u-sheet-1 {min-height: 170px}
 .u-section-7 .u-shape-1 {height: 526px; margin-left: initial}
 .u-section-7 .u-layout-wrap-1 {margin-top: -526px}
@@ -357,7 +357,7 @@
 .u-section-10 .u-text-11 {text-transform: none; font-size: 2.25rem; margin: 20px 2px 0 0}
 .u-section-10 .u-text-12 {margin: 40px 2px 0 0} 
 
-@media (max-width: 1199px){ .u-section-10 {background-position: 50% 10vh}
+@media (max-width: 1199px){ .u-section-10 {background-position: 50% -10vh}
 .u-section-10 .u-sheet-1 {min-height: 521px}
 .u-section-10 .u-layout-wrap-1 {margin-right: initial; margin-left: initial; width: auto}
 .u-section-10 .u-layout-cell-1 {min-height: 543px}
