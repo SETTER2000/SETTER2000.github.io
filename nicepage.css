@@ -26529,7 +26529,7 @@ a.u-link.u-text-hover-grey-90:hover {
  .u-header {background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/paralax-img.jpg"); background-position: 50% 50%; background-size: 120%}
 .u-header .u-sheet-1 {min-height: 100px}
 .u-header .u-image-1 {margin: 34px auto 0 0}
-.u-header .u-logo-image-1 {max-width: 170px; max-height: 170px}
+.u-header .u-logo-image-1 {max-width: 140px; max-height: 140px; width: 140px}
 .u-header .u-image-2 {margin: -32px 0 0 auto}
 .u-header .u-logo-image-2 {max-width: 169px; max-height: 169px}
 .u-header .u-text-1 {width: 145px; margin: -47px 498px 25px 497px} 
@@ -26538,17 +26538,15 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 991px){ .u-header .u-text-1 {margin-left: 287px; margin-right: 287px} }
 @media (max-width: 767px){ .u-header .u-text-1 {margin-right: 197px; margin-left: 197px} }
 @media (max-width: 575px){ .u-header .u-sheet-1 {min-height: 122px}
-.u-header .u-logo-image-1 {max-width: 140px; max-height: 140px}
 .u-header .u-logo-image-2 {max-width: 140px; max-height: 140px}
 .u-header .u-text-1 {margin-left: 97px; margin-right: 97px} }
  .u-footer {background-image: none}
-.u-footer .u-sheet-1 {min-height: 93px}
-.u-footer .u-text-1 {width: 417px; margin: 25px auto} 
+.u-footer .u-sheet-1 {min-height: 65px}
+.u-footer .u-image-1 {width: 175px; height: 35px; margin: 15px auto} 
 @media (max-width: 1199px){ .u-footer .u-sheet-1 {min-height: 99px} }
 @media (max-width: 991px){ .u-footer .u-sheet-1 {min-height: 76px} }
 @media (max-width: 767px){ .u-footer .u-sheet-1 {min-height: 57px} }
-@media (max-width: 575px){ .u-footer .u-sheet-1 {min-height: 36px}
-.u-footer .u-text-1 {width: 340px} }
+@media (max-width: 575px){ .u-footer .u-sheet-1 {min-height: 30px} }
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
